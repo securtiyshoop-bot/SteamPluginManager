@@ -1,0 +1,13 @@
+{
+  "name": "GTA V",
+  "appId": 271590,
+  "executable": "GTA5.exe",
+  "launchPath": "C:\\Games\\GTA5",
+  "icon": "gta5_icon.png",
+  "banner": "gta5_banner.png",
+  "description": "Grand Theft Auto V",
+  "developer": "Rockstar Games",
+  "tags": ["action", "adventure", "open-world"],
+  "version": "1.0",
+  "enabled": false
+}

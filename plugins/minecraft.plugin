@@ -1,0 +1,13 @@
+{
+  "name": "Minecraft Java Edition",
+  "appId": 1086210,
+  "executable": "javaw.exe",
+  "launchPath": "C:\\Games\\Minecraft",
+  "icon": "minecraft_icon.png",
+  "banner": "minecraft_banner.png",
+  "description": "Minecraft Java Edition",
+  "developer": "Mojang Studios",
+  "tags": ["sandbox", "adventure", "building"],
+  "version": "1.0",
+  "enabled": false
+}

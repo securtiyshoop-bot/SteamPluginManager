@@ -1,0 +1,13 @@
+{
+  "name": "Cyberpunk 2077",
+  "appId": 1091500,
+  "executable": "Cyberpunk2077.exe",
+  "launchPath": "C:\\Games\\Cyberpunk2077",
+  "icon": "cyberpunk_icon.png",
+  "banner": "cyberpunk_banner.png",
+  "description": "Cyberpunk 2077",
+  "developer": "CD Projekt Red",
+  "tags": ["action", "rpg", "futuristic"],
+  "version": "1.0",
+  "enabled": false
+}

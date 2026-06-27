@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+
+# Plugins klasörü (büyük olabilir)
+plugins/*.zip
+
+# Log dosyaları
+*.log
+
+# Temp
+temp/
+tmp/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
